@@ -34,3 +34,5 @@ for i in a
     print(i)
 }
 // print(a[0]) //can use this to explicity get any value on idex of a collection
+
+
